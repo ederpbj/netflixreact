@@ -19,6 +19,3 @@ clone netflix
 | Descrição     | Comando                             |
 | ------------- | ----------------------------------- |
 | Criar projeto | `npx create-react-app netflixreact` |
-| ir para pasta | `cd netflixreact`                   |
-| Start         | `yarn start`                        |
-
