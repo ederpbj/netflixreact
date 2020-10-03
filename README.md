@@ -33,6 +33,8 @@ clone netflix
 [themovie API](https://www.themoviedb.org/settings/api)
 > informações em .env
 
+[Baixar git](https://git-scm.com/download/win)
+
 ## cmd
 
 | Descrição     | Comando                             |
